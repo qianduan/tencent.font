@@ -75,11 +75,11 @@
 
 
 meta:
-  author: Crowdsourced, for Fontello project
-  homepage: http://fontello.com
-  email: vitaly@rcdesign.ru
-  twitter: http://twitter.com/puzrin
-  github: https://github.com/fontello/fontelico.font
+  author: shenfei, @isux
+  homepage: http://isux.tencent.com
+  email: isux@qq.com
+  twitter: http://t.qq.com/isux
+  github: https://github.com/isux/qzone.font
   license: SIL
   license_url: http://scripts.sil.org/OFL
 
@@ -95,12 +95,12 @@ font:
 
   # use !!!small!!! letters a-z, or Opera will fail under OS X
   # fontname will be also used as file name.
-  fontname: fontelico
+  fontname: qzone
 
-  fullname: Fontelico
-  familyname: Fontelico
+  fullname: qzone
+  familyname: qzone
 
-  copyright: Copyright (C) 2012 by Fontello project
+  copyright: Copyright (C) 2013 by isux qzone team
 
   ascent: 850
   descent: 150
@@ -357,4 +357,51 @@ glyphs:
       author: Angela Berbentseva
       email: berbentseva_angela@yahoo.com
     search: [browser, ie, bullshit, crap]
-
+-
+    css: earth
+    code: 0xe900
+    uid: 3a451c725dd32cf5a98417ad023e1737
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+  -
+    css: friend
+    code: 0xe901
+    uid: 1084a642b0dc3c4153c3bcecafdc2e80
+   meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+  -
+    css: heart
+    code: 0xe902
+    uid: e6ac330cd487414d16555360cf0aa487
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+  -
+    css: key
+    code: 0xe903
+    uid: 8efa60e1a6429cd82c0b55c79396e570
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+  -
+    css: lock
+    code: 0xe904
+    uid: daf2c9ff7665b5debbabbb985cefd93e
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+  -
+    css: touch
+    code: 0xe905
+    uid: bd90ac93d765fdbecc525333490b8308
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
