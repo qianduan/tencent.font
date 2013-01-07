@@ -1,9 +1,85 @@
+---
+# This is configuration file for font builder and other support scripts.
+# Format is descriped below.
+#
+#
+# # metadata, to generate demo & fontello info dialogs
+# meta:
+#
+#  author: Daniel Buce
+#  homepage: http://...
+#  email: ...
+#  twitter: http://twitter.com/...
+#  dribbble: http://dribbble.com/...
+#  license: SIL
+#  license_url: http://scripts.sil.org/OFL
+#
+#   css-prefix: "icon-"             # prefix for css-generated classes
+#   demo-columns: 4                 # used for html demo page generation
+#
+# # Font headers. All vars from here will be used as font
+# # params in fontforge http://fontforge.sourceforge.net/python.html
+# font:
+#
+#   version: "1.0"
+#
+#   # use !!!small!!! letters a-z, or Opera will fail under OS X
+#   # fontname will be also used as file name.
+#   fontname: myfont
+#
+#   fullname: MyFont
+#   familyname: Myfont
+#
+#   copyright: Copyright (C) 2012 by xxxxxxxx
+#
+#   ascent: 1638
+#   descent: 410
+#   weight: Regular
+#
+#
+# #
+# # Optional. You can apply global rescale + offset to all font glyphs.
+# # Param values ar 0..1, where 1 = 100%. 
+# #
+# transform:
+#   baseline: 0.2                 # baseline for rescale symmetry. Default value
+#                                 # calculated from ascent/decsent
+#   rescale: 0.68                 # rescale glyphs and center around baseline
+#   offset: -0.1                  # shift up/down
+#
+# glyphs:
+#   - file: glyph1_file           # file name, without extention
+#     from: 0xNNN                 # Source code for remapper or merge tool
+#     code: 0xNNN                 # Symbol code 0x - hex
+#     css: icon-gpyph1-name       # For generated CSS
+#     search: [word1, word2]      # Search aliases (array). CSS name will be
+#                                 # included automatically
+#     src: first_font_alias       # alias to font for merge tool
+#                                 # list of aliases in src_fonts section
+#
+#     #
+#     # local transformations, only for this glyph (optional)
+#     #
+#     transform:                  # personal glyph transformation.
+#       rescale_rel               # *_rel - applyed after global.
+#       offset: 0.2               # without *_rel - override global
+#
+# #
+# # Fonts aliases used only in font merge tool
+# #
+# src_fonts:
+#   first_font_alias: "/absolute/path/to/first/font.ttf"
+#
+################################################################################
+#
+
+
 meta:
-  author: shenfei
-  homepage: http://isux.tencent.com
-  email: isux@qq.com
-  twitter: http://t.qq.com/isux
-  github: https://github.com/isux/qzone.font
+  author: Crowdsourced, for Fontello project
+  homepage: http://fontello.com
+  email: vitaly@rcdesign.ru
+  twitter: http://twitter.com/puzrin
+  github: https://github.com/fontello/fontelico.font
   license: SIL
   license_url: http://scripts.sil.org/OFL
 
@@ -24,7 +100,7 @@ font:
   fullname: qzone
   familyname: qzone
 
-  copyright: Copyright (C) 2013 by isux qzone team
+  copyright: Copyright (C) 2012 by Fontello project
 
   ascent: 850
   descent: 150
@@ -282,51 +358,3 @@ glyphs:
       email: berbentseva_angela@yahoo.com
     search: [browser, ie, bullshit, crap]
 
-  -
-    css: earth
-    code: 0xe815
-    uid: 3a451c725dd32cf5a98417ad023e1737
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
-  -
-    css: friend
-    code: 0xe816
-    uid: 1084a642b0dc3c4153c3bcecafdc2e80
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
-  -
-    css: heart
-    code: 0xe817
-    uid: e6ac330cd487414d16555360cf0aa487
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
-  -
-    css: key
-    code: 0xe818
-    uid: 8efa60e1a6429cd82c0b55c79396e570
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
-  -
-    css: lock
-    code: 0xe819
-    uid: daf2c9ff7665b5debbabbb985cefd93e
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
-  -
-    css: touch
-    code: 0xe820
-    uid: bd90ac93d765fdbecc525333490b8308
-    meta:
-      author: ISUX
-      email: isux@qq.com
-    search: [qzone, sns]
