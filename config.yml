@@ -511,3 +511,155 @@ glyphs:
       author: ISUX
       email: isux@qq.com
     search: [qzone, sns]
+  -    
+    css: activity
+    code: 0xe960
+    uid: 2b90f0f69a4aa887e8574de70fe00777
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [activity]
+  -
+    css: app-add
+    code: 0xe961
+    uid: edb135fdb8f3a3b491ac168d34be6dd4
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [app]
+  -
+    css: app-center
+    code: 0xe962
+    uid: 97d607e1f23c1622d8bc8a7aceb085ac
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [app, center]
+  -
+    css: arrow-top2
+    code: 0xe963
+    uid: fa59b0493ee073e64d5fa24299726b65
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [arrow, top]
+  -
+    css: board
+    code: 0xe964
+    uid: 118f1e0a8892e5ef91736036a40a348a
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [board]
+  -
+    css: cert
+    code: 0xe965
+    uid: a2e0fe54b022a5d93ca3be05297c1326
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [cert]
+  -
+    css: cloudy
+    code: 0xe966
+    uid: f04ba2a1aad85a43c6cd4e131ed76889
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [cloudy, weather]
+  -
+    css: dress
+    code: 0xe967
+    uid: 5a57d893a3b700b9c7b2cc6a9096cb14
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [dress]
+  -
+    css: gift
+    code: 0xe968
+    uid: 2d07aa0c29df8fa19aebd34df1bb8432
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [gift]
+  -
+    css: homepage
+    code: 0xe969
+    uid: 8a9316a90cb16c90a3ab00289cabcc1b
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [homepage]
+  -
+    css: zan
+    code: 0xe971
+    uid: ac2f8262c870c7ffbdbdffc630ce694c
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [zan, like]
+  -
+    css: zan2
+    code: 0xe970
+    uid: 528cc72aebf87c53339a2b616fa2e6e0
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [like, zan]
+  -
+    css: list-more
+    code: 0xe972
+    uid: f39ca9f154666e6610490f4406bb66bc
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [list, more]
+  -
+    css: love
+    code: 0xe973
+    uid: 251443dc006f644b30b7d04bbbd7d172
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [love]
+  -
+    css: mail
+    code: 0xe974
+    uid: b96fd111281d51001696322ec82977db
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [mail]
+  -
+    css: myhome
+    code: 0xe975
+    uid: 05feed44c52b9e9798b7429253c8a6ab
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [myhome, home]
+  -
+    css: pengyou
+    code: 0xe976
+    uid: a1328dd9a6ebb8786cbf9b85b8c0edb7
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [pengyou,logo,tencent]
+  -
+    css: search
+    code: 0xe977
+    uid: 1ba3510ccbff4e2d5fbc4feba2d62026
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [search]
+  -
+    css: weibo
+    code: 0xe978
+    uid: a66a67e9d96e23a22174c7c0e141a042
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
