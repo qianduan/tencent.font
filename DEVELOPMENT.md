@@ -62,3 +62,12 @@ the bottom.
 In most cases it's ok to visually allign icons to middle line, not to baseline.
 If you are not shure, how to start - make image with 10% top/bottom padding.
 Then generate demo page and tune scale/offset.
+
+### config.yml
+
+Generate UID:
+> node -e "for(var i=10; i>0; i--) console.log(require('crypto').randomBytes(16).toString('hex'));"
+
+### gh-pages
+
+> make gh-pages
