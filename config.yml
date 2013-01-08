@@ -127,7 +127,7 @@ glyphs:
     search: [logo, qzone, isux]
   -
     css: profile
-    code: 0xe813
+    code: 0xe802
     uid: 4bb2045a2aca451705fe8a23c4a576ab
     meta:
       author: isux
@@ -135,7 +135,7 @@ glyphs:
     search: [profile]
   -
     css: setting
-    code: 0xe802
+    code: 0xe803
     uid: 53ed8570225581269cd7eff5795e8bea
     meta:
       author: isux
@@ -143,7 +143,7 @@ glyphs:
     search: [setting]
   -
     css: setting2
-    code: 0xe803
+    code: 0xe804
     uid: fd59eac4d575b48eb156590b63a355fd
     meta:
       author: isux
@@ -151,7 +151,7 @@ glyphs:
     search: [setting]
   -
     css: lock2
-    code: 0xe804
+    code: 0xe805
     uid: 142263941b9f4cd4b2b84f1f4cd13b1d
     meta:
       author: isux
@@ -159,7 +159,7 @@ glyphs:
     search: [lock]
   -
     css: camera
-    code: 0xe805
+    code: 0xe806
     uid: 4dd56d61fd0dab19277824da301424b3
     meta:
       author: isux
@@ -167,7 +167,7 @@ glyphs:
     search: [camera]
   -
     css: upload
-    code: 0xe806
+    code: 0xe807
     uid: 68e298ff2d8b25dd7f647ed64f5ae690
     meta:
       author: isux
@@ -175,7 +175,7 @@ glyphs:
     search: [upload]
   -
     css: like
-    code: 0xe807
+    code: 0xe808
     uid: bb68a13a3574b087d4350eff0b8d48e3
     meta:
       author: isux
@@ -183,7 +183,7 @@ glyphs:
     search: [like]
   -
     css: refresh
-    code: 0xe808
+    code: 0xe809
     uid: 48cc210e59ff4bc56b6c8fba6eb384b8
     meta:
       author: isux
@@ -191,7 +191,7 @@ glyphs:
     search: [refresh]
   -
     css: diary
-    code: 0xe809
+    code: 0xe810
     uid: 078fec38562c3f83a1201a908040c141
     meta:
       author: isux
@@ -247,7 +247,7 @@ glyphs:
     search: [picture]
   -
     css: video
-    code: 0xe810
+    code: 0xe813
     uid: 4843d0d6050dd508d4c101a334f46db2
     meta:
       author: isux
@@ -320,7 +320,7 @@ glyphs:
     search: [accessories]
   -
     css: at
-    code: 0xe839
+    code: 0xe814
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -328,7 +328,7 @@ glyphs:
     search: [at]
   -
     css: site-link
-    code: 0xe839
+    code: 0xe815
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -336,7 +336,7 @@ glyphs:
     search: [site, link]
   -
     css: appcenter
-    code: 0xe839
+    code: 0xe816
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -344,7 +344,7 @@ glyphs:
     search: [appcenter]
   -
     css: add
-    code: 0xe839
+    code: 0xe817
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -352,7 +352,7 @@ glyphs:
     search: [add]
   -
     css: delete
-    code: 0xe839
+    code: 0xe818
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -360,7 +360,7 @@ glyphs:
     search: [delete]
   -
     css: question
-    code: 0xe839
+    code: 0xe819
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -368,7 +368,7 @@ glyphs:
     search: [question]
   -
     css: constellation
-    code: 0xe839
+    code: 0xe820
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -376,7 +376,7 @@ glyphs:
     search: [constellation]
   -
     css: marriage
-    code: 0xe839
+    code: 0xe821
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -384,7 +384,7 @@ glyphs:
     search: [marriage]
   -
     css: location
-    code: 0xe839
+    code: 0xe822
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -392,7 +392,7 @@ glyphs:
     search: [location]
   -
     css: hometown
-    code: 0xe839
+    code: 0xe823
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -400,7 +400,7 @@ glyphs:
     search: [hometown]
   -
     css: occupation
-    code: 0xe839
+    code: 0xe824
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -408,7 +408,7 @@ glyphs:
     search: [occupation]
   -
     css: female
-    code: 0xe839
+    code: 0xe825
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -416,7 +416,7 @@ glyphs:
     search: [female]
   -
     css: male
-    code: 0xe839
+    code: 0xe826
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
@@ -424,7 +424,7 @@ glyphs:
     search: [male]
   -
     css: person
-    code: 0xe839
+    code: 0xe827
     uid: 9bc2902722abb366a213a052ade360bc
     meta:
       author: isux
