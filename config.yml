@@ -511,6 +511,7 @@ glyphs:
       author: ISUX
       email: isux@qq.com
     search: [qzone, sns]
+<<<<<<< HEAD
   -    
     css: activity
     code: 0xe960
@@ -663,3 +664,13 @@ glyphs:
       author: isux
       email: isux@qq.com
     search: [weibo,tencent]
+=======
+  -
+    css: weibo
+    code: 0xe906
+    uid: eb8d8706394b9a843c530a19d31d5769 
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
+>>>>>>> d1c63ee61405a6e76d47cf258933904631a04884
