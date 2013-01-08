@@ -511,3 +511,11 @@ glyphs:
       author: ISUX
       email: isux@qq.com
     search: [qzone, sns]
+  -
+    css: weibo
+    code: 0xe906
+    uid: eb8d8706394b9a843c530a19d31d5769 
+    meta:
+      author: ISUX
+      email: isux@qq.com
+    search: [qzone, sns]
