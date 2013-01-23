@@ -1,81 +1,6 @@
 ---
-# This is configuration file for font builder and other support scripts.
-# Format is descriped below.
-#
-#
-# # metadata, to generate demo & fontello info dialogs
-# meta:
-#
-#  author: Daniel Buce
-#  homepage: http://...
-#  email: ...
-#  twitter: http://twitter.com/...
-#  dribbble: http://dribbble.com/...
-#  license: SIL
-#  license_url: http://scripts.sil.org/OFL
-#
-#   css-prefix: "icon-"             # prefix for css-generated classes
-#   demo-columns: 4                 # used for html demo page generation
-#
-# # Font headers. All vars from here will be used as font
-# # params in fontforge http://fontforge.sourceforge.net/python.html
-# font:
-#
-#   version: "1.0"
-#
-#   # use !!!small!!! letters a-z, or Opera will fail under OS X
-#   # fontname will be also used as file name.
-#   fontname: myfont
-#
-#   fullname: MyFont
-#   familyname: Myfont
-#
-#   copyright: Copyright (C) 2012 by xxxxxxxx
-#
-#   ascent: 1638
-#   descent: 410
-#   weight: Regular
-#
-#
-# #
-# # Optional. You can apply global rescale + offset to all font glyphs.
-# # Param values ar 0..1, where 1 = 100%. 
-# #
-# transform:
-#   baseline: 0.2                 # baseline for rescale symmetry. Default value
-#                                 # calculated from ascent/decsent
-#   rescale: 0.68                 # rescale glyphs and center around baseline
-#   offset: -0.1                  # shift up/down
-#
-# glyphs:
-#   - file: glyph1_file           # file name, without extention
-#     from: 0xNNN                 # Source code for remapper or merge tool
-#     code: 0xNNN                 # Symbol code 0x - hex
-#     css: icon-gpyph1-name       # For generated CSS
-#     search: [word1, word2]      # Search aliases (array). CSS name will be
-#                                 # included automatically
-#     src: first_font_alias       # alias to font for merge tool
-#                                 # list of aliases in src_fonts section
-#
-#     #
-#     # local transformations, only for this glyph (optional)
-#     #
-#     transform:                  # personal glyph transformation.
-#       rescale_rel               # *_rel - applyed after global.
-#       offset: 0.2               # without *_rel - override global
-#
-# #
-# # Fonts aliases used only in font merge tool
-# #
-# src_fonts:
-#   first_font_alias: "/absolute/path/to/first/font.ttf"
-#
-################################################################################
-#
-
-
 meta:
-  author: isux
+  author: shenfei
   homepage: http://isux.tencent.com
   email: isux@qq.com
   twitter: http://t.qq.com/isux
@@ -422,7 +347,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: share
     code: 0xf827
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -430,7 +355,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: save
     code: 0xf828
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -438,7 +363,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: home
     code: 0xf829
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -446,7 +371,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: profile
     code: 0xf82a
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -454,7 +379,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: timing
     code: 0xf82b
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -462,7 +387,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: time
     code: 0xf82c
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -470,7 +395,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: time2
     code: 0xf82d
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -478,7 +403,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: countdown
     code: 0xf82e
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -486,7 +411,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: plane
     code: 0xf82f
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -494,7 +419,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: fullscreen
     code: 0xf830
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -502,7 +427,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: restore
     code: 0xf831
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -510,7 +435,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: image
     code: 0xf832
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -518,7 +443,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: add
     code: 0xf833
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -526,7 +451,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: geolocation
     code: 0xf834
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -534,7 +459,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: keyboard
     code: 0xf835
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
@@ -542,7 +467,7 @@ glyphs:
       email: isux@qq.com
     search: [weibo,tencent]
   -
-    css: weibo
+    css: open-folder
     code: 0xf836
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
