@@ -110,32 +110,440 @@ font:
 glyphs:
 
   -
-    css: qzone
-    code: 0xe800
-    uid: c64623255a4a7c72436b199b05296c4f
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [logo, qzone, isux]
-  -
-    css: isux
-    code: 0xe801
-    uid: 1ba44825e5f10920b4e3f1d0c73f79a2
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [logo, qzone, isux]
-  -
     css: qq-com
-    code: 0xf799
+    code: 0xf800
     uid: 33a46defb9757ff9bb14b0f40a432cc4 
     meta:
       author: isux
       email: isux@qq.com
     search: [qq,qq.com]
   -
+    css: qzone
+    code: 0xe801
+    uid: c64623255a4a7c72436b199b05296c4f
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [logo, qzone, isux]
+  -
+    css: qzone2
+    code: 0xf802
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [logo,qzone,tencent]
+  -
+    css: qzone3
+    code: 0xf803
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: qzone-lock
+    code: 0xf804
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: qzone-disabled
+    code: 0xf805
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: isux
+    code: 0xe806
+    uid: 1ba44825e5f10920b4e3f1d0c73f79a2
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [logo, qzone, isux]
+  -
     css: weibo
-    code: 0xf878
+    code: 0xf807
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo2
+    code: 0xf808
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: at
+    code: 0xf809
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [at,tencent]
+  -
+    css: add
+    code: 0xf80a
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: search
+    code: 0xf80b
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: setting
+    code: 0xf80c
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: clothes
+    code: 0xf80d
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: close
+    code: 0xf80e
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: delete
+    code: 0xf80f
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: person
+    code: 0xf810
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: persons
+    code: 0xf811
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: persons-disabled
+    code: 0xf812
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: male
+    code: 0xf813
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: female
+    code: 0xf814
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: write
+    code: 0xf815
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: write2
+    code: 0xf816
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: reply
+    code: 0xf817
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: reply2
+    code: 0xf818
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: comment
+    code: 0xf819
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: chat
+    code: 0xf81a
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: retweet
+    code: 0xf81b
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: microphone
+    code: 0xf81c
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: microphone-disabled
+    code: 0xf81d
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: sound
+    code: 0xf826
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: camera
+    code: 0xf81e
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: camera2
+    code: 0xf81f
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: camera3
+    code: 0xf820
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: camera-disabled
+    code: 0xf821
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: emotion
+    code: 0xf822
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: emotion-add
+    code: 0xf823
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: emotion-favorate
+    code: 0xf824
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: heart
+    code: 0xf825
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf827
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf828
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf829
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82a
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82b
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82c
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82d
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82e
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf82f
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf830
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf831
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf832
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf833
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf834
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf835
+    uid: 020ae88a09a73581333c657b79d0e4c6 
+    meta:
+      author: isux
+      email: isux@qq.com
+    search: [weibo,tencent]
+  -
+    css: weibo
+    code: 0xf836
     uid: 020ae88a09a73581333c657b79d0e4c6 
     meta:
       author: isux
