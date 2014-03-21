@@ -35,6 +35,11 @@ font:
 glyphs:
 
   -
+    css: isux
+    code: 0xe806
+    uid: 56051ec6f85f63e8f0f40a8d4875e876 
+    search: [logo, qzone, isux]
+  -
     css: qq-com
     code: 0xf800
     uid: 006675451405d2ccc683b4608aec70dd 
