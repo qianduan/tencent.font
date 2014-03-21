@@ -38,31 +38,14 @@ glyphs:
     css: qq-com
     code: 0xf800
     uid: 006675451405d2ccc683b4608aec70dd 
-    meta:
-      author: isux
-      email: isux@qq.com
     search: [qq,qq.com]
   -
     css: qzone
     code: 0xe801
     uid: c5ea7f98eb5ed86d39f4677baadbb6a7
-    meta:
-      author: isux
-      email: isux@qq.com
-    search: [logo, qzone, isux]
-  -
-    css: isux
-    code: 0xe806
-    uid: 56051ec6f85f63e8f0f40a8d4875e876
-    meta:
-      author: isux
-      email: isux@qq.com
     search: [logo, qzone, isux]
   -
     css: weibo
     code: 0xf807
     uid: 6e53988bff32068977a1204f1fd627a1 
-    meta:
-      author: isux
-      email: isux@qq.com
     search: [weibo,tencent]
